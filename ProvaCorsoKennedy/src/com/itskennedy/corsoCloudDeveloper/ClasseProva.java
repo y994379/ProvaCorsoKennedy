@@ -4,7 +4,13 @@ public class ClasseProva {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-///ciao
+
+		System.out.println("ciao a tutti");
+		
+	}
+	
+	private void test() {
+		System.out.println("");
 	}
 
 }
