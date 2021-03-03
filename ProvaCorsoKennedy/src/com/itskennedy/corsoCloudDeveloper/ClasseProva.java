@@ -12,5 +12,9 @@ public class ClasseProva {
 	private void test() {
 		System.out.println("");
 	}
+	
+	private void secondoTest() {
+		System.out.println("riciao");
+	}
 
 }
